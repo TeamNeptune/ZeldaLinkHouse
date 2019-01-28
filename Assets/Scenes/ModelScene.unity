@@ -331,6 +331,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: SeakerStone
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 49066e70659416247a4904a1af1ff39e, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 49066e70659416247a4904a1af1ff39e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: 49066e70659416247a4904a1af1ff39e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: 49066e70659416247a4904a1af1ff39e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -375,10 +387,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2300000, guid: 49066e70659416247a4904a1af1ff39e, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 8738370e080ed2e49820edf18a552de5, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 49066e70659416247a4904a1af1ff39e, type: 3}
 --- !u!1001 &1997555862
@@ -391,6 +399,10 @@ PrefabInstance:
     - target: {fileID: 100006, guid: 50113f5107797274a9ce078c9397396b, type: 3}
       propertyPath: m_Name
       value: Sign
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: 50113f5107797274a9ce078c9397396b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: 50113f5107797274a9ce078c9397396b, type: 3}
       propertyPath: m_LocalPosition.x
