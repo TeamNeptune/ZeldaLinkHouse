@@ -1,29 +1,14 @@
 fileFormatVersion: 2
-guid: 49066e70659416247a4904a1af1ff39e
+guid: 1020e25fa3c744b42a925e2950d91b70
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Hedra001
-    100002: Plane001
-    100004: Plane002
-    100006: //RootNode
-    400000: Hedra001
-    400002: Plane001
-    400004: Plane002
-    400006: //RootNode
-    2100000: 'Material #28'
-    2100002: 'Material #29'
-    2100004: 'Material #44'
-    2100006: 'Material #25'
-    2300000: Hedra001
-    2300002: Plane001
-    2300004: Plane002
-    3300000: Hedra001
-    3300002: Plane001
-    3300004: Plane002
-    4300000: Plane001
-    4300002: Plane002
-    4300004: Hedra001
+    100000: //RootNode
+    400000: //RootNode
+    2100000: No Name
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Box001
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -58,7 +43,6 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -83,9 +67,6 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
-    blendShapeNormalImportMode: 1
-    normalSmoothingSource: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -100,6 +81,7 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
